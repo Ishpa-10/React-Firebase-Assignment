@@ -1,0 +1,35 @@
+.auth-container {
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.auth-card {
+  background: #fffaf5;
+  width: 100%;
+  max-width: 430px;
+  padding: 45px;
+  border-radius: 22px;
+  box-shadow: 0 12px 40px rgba(75, 46, 35, 0.13);
+  text-align: center;
+  border: 1px solid #ead9c8;
+}
+
+.auth-card h1 {
+  font-size: 30px;
+  margin-bottom: 25px;
+  color: #593b2c;
+}
+
+.auth-card input {
+  max-width: 100%;
+  margin-bottom: 16px;
+}
+
+.auth-card button {
+  width: 100%;
+  margin-top: 12px;
+  padding: 14px;
+}
