@@ -1,16 +1,60 @@
-# React + Vite
+# React Firebase Authentication Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Student Information
+- Student Name: Ishpa Alam
+- Student ID: C243430
+- Department: Computer Science and Engineering (CSE)
+- University: International Islamic University Chittagong (IIUC)
 
-Currently, two official plugins are available:
+## Project Description
+This is a React-based web application integrated with Firebase Authentication. It allows users to register, log in, log out, and securely access protected pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- User Registration with Email and Password
+- User Login
+- User Logout
+- Firebase Authentication
+- Protected Routes
+- Dashboard for Logged-in Users
+- User Profile Page
+- Dynamic Navigation Bar
 
-## React Compiler
+## Technologies Used
+- React.js
+- Vite
+- Firebase Authentication
+- React Router DOM
+- HTML
+- CSS
+- JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Structure
+- public/
+- src/
+  - components/
+  - pages/
+  - App.jsx
+  - main.jsx
+- package.json
+- index.html
+- vite.config.js
 
-## Expanding the ESLint configuration
+## Installation and Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   `git clone https://github.com/Ishpa-10/React-Firebase-Assignment.git`
+
+2. Navigate to the project folder:
+   `cd React-Firebase-Assignment`
+
+3. Install dependencies:
+   `npm install`
+
+4. Start the development server:
+   `npm run dev`
+
+## GitHub Repository
+https://github.com/Ishpa-10/React-Firebase-Assignment
+
+## Conclusion
+This project helped me understand React fundamentals, Firebase Authentication, React Router, protected routes, and the development of a functional web application.
